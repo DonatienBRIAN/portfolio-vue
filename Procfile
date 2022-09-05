@@ -1,1 +1,3 @@
-web: npm run build
+web: 
+npm i @vue/cli-service
+npm run build
