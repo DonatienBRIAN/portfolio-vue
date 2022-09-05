@@ -1135,12 +1135,12 @@ header {
 }
 @media screen and (max-width: 900px){
     .navigation .image-logo{
-      display:none;
+      display: none;
     }
 }
 @media screen and (max-height: 700px){
   .navigation .image-logo{
-    display:none;
+    opacity: 0;
   }
 }
 /*Boutons*/
