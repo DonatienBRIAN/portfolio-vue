@@ -1,2 +1,2 @@
-web: sudo npm install @vue/cli-service
-web: sudo npm run serve
+web: npm install @vue/cli-service
+web: npm run serve
